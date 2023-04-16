@@ -4,7 +4,7 @@ const chalk = require('chalk')
 
 global.botname = "⚡👑Ꮋ3Ꮢ0ᏰᏒ1Ꮑ3 ✨♥" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "ᎠᎬᏉᎨᏝ"  
+global.author = "⚡👑Ꮋ3Ꮢ0ᏰᏒ1Ꮑ3 ✨♥"  
 global.packname = "⚡👑Ꮋ3Ꮢ0ᏰᏒ1Ꮑ3 ✨♥"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
