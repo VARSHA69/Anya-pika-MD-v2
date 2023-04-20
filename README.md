@@ -1,6 +1,6 @@
 <div align="center">
    
-## 𝐀𝖓𝐲𝖆 𝖇𝐲 ⚡👑Ꮋ3Ꮢ0ᏰᏒ1Ꮑ3 ✨♥
+## 𝐀𝖓𝐲𝖆 𝖇𝐲 ⚡👑Ꮋ3Ꮢ0ᏰᏒ1Ꮑ3 ✨🤍 
 <p align="center">
 <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
 
