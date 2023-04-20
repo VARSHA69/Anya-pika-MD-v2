@@ -10,7 +10,7 @@
 <a href="#"><img title="𝐐𝐔𝚵𝚵𝚴 𝚫𝚴𝐘𝚫 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞." src="https://img.shields.io/badge/𝐐𝐔𝚵𝚵𝚴 𝚫𝚴𝐘𝚫 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞.-red?colorA=%23ff0000&colorB=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HEROBRINE69H"><img title="Author" src="https://img.shields.io/badge/Author-PikaBotz-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HEROBRINE69H"><img title="Author" src="https://img.shields.io/badge/Author-⚡👑Ꮋ3Ꮢ0ᏰᏒ1Ꮑ3 ✨🤍-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/HEROBRINE69H/Anya-pika-MD-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HEROBRINE69H/Anya-pika-MD-v2?color=blue&style=flat-square"></a>
 <a href="https://github.com/HEROBRINE69H/Anya-pika-MD-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HEROBRINE69H/Anya-pika-MD-v2?color=red&style=flat-square"></a>
